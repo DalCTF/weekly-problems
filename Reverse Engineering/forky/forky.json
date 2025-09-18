@@ -1,8 +1,8 @@
 {
     "id": 1,
     "name": "Forky",
-    "link": "link",
-    "title": "tite",
-    "presentedBy": "presentedBy",
+    "author": "Samuel",
+    "link": "https://play.picoctf.org/practice/challenge/24",
+    "presentedBy": "Status 418",
     "datePresented": "30/08/2025"
 }
