@@ -2,8 +2,8 @@
     "id": 1,
     "tags": "Reverse Engineering",
     "name": "Template POW",
+    "author: "DalCTF",
     "link": "link",
-    "title": "Template POW",
     "presentedBy": "presentedBy",
     "datePresented": "31/12/2025"
 }
