@@ -1,9 +1,9 @@
 {
     "id": 1,
-    "tags": "Reverse Engineering",
+    "tags": ["Reverse Engineering"],
     "name": "Template POW",
     "author": "DalCTF",
     "link": "link",
-    "presentedBy": "presentedBy",
+    "presentedBy": "Nir",
     "datePresented": "31/12/2025"
 }
