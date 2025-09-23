@@ -1,8 +1,9 @@
 {
     "id": 1,
-    "name": "name",
+    "tags": "Reverse Engineering",
+    "name": "Template POW",
     "link": "link",
-    "title": "tite",
+    "title": "Template POW",
     "presentedBy": "presentedBy",
     "datePresented": "31/12/2025",
     "current-weekly": true

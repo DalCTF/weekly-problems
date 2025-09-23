@@ -1,6 +1,13 @@
 {
     "id": 2,
     "name": "Forky",
+<<<<<<< HEAD
+    "link": "link",
+    "title": "tite",
+    "presentedBy": "presentedBy",
+    "datePresented": "30/08/2025",
+    "current-weekly": true
+=======
     "author": "Samuel",
     "link": "https://play.picoctf.org/practice/challenge/24",
     "presentedBy": "Status 418",
@@ -10,4 +17,5 @@
     "flag": "picoCTF{-721750240}",
     "flagFormat": "picoCTF{}",
     "active": true
+>>>>>>> e1013d1dd449360e5ff38ece2e15e1c9cf1a90b3
 }
