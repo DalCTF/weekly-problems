@@ -6,5 +6,6 @@
     "link": "link",
     "presentedBy": "Nir",
     "datePresented": "31/12/2025",
-    "snippet": "lorem ipsum lorem ipsum"
+    "snippet": "lorem ipsum lorem ipsum",
+    "active": false
 }
