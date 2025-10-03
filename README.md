@@ -1,22 +1,24 @@
 # weekly-problems
 
-Problem of the week is in folder `pow`.
+Repository to maintain problems featured by the society during meetings. 
 
-Follow the provided `template.json` to create a problem of the week or copy and modify the example below. 
+To add a problem, copy template.json into the appropiate category, and add the details of the problem. Ensure the `"active"` attribute is set to `true` so it is featured as the weekly problem. Otherwise, it will be placed into past problems. 
+Use attribute `id` to order which problem is listed first.  
 
 ```
 {
-    "id": 2,
-    "name": "Forky",
-    "author": "Samuel",
-    "link": "https://play.picoctf.org/practice/challenge/24",
-    "presentedBy": "Status 418",
-    "datePresented": "2025-08-30",
-    "tags": ["Reverse Engineering"],
-    "snippet": "In this program, identify the last integer value that is passed as parameter to the function doNothing().",
-    "flag": "picoCTF{-721750240}",
+    "id": 1,
+    "name": "Buffer Overflow 1",
+    "author": "Sanjay C / Palash Oswal",
+    "link": "https://play.picoctf.org/practice/challenge/258",
+    "presentedBy": "Conrado Boeira",
+    "datePresented": "2025-09-22",
+    "tags": ["Binary Exploitation"],
+    "snippet": "Control the return address.",
+    "flag": "picoCTF{addr3ss3s_ar3_3asy_[REDACTED]}",
     "flagFormat": "picoCTF{}",
     "active": true
 }
+
 
 ```

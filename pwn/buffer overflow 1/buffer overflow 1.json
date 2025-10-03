@@ -9,5 +9,5 @@
     "snippet": "Control the return address.",
     "flag": "picoCTF{addr3ss3s_ar3_3asy_[REDACTED]}",
     "flagFormat": "picoCTF{}",
-    "active": true
+    "active": false
 }

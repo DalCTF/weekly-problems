@@ -9,5 +9,5 @@
     "snippet": "In this program, identify the last integer value that is passed as parameter to the function doNothing().",
     "flag": "picoCTF{-721750240}",
     "flagFormat": "picoCTF{}",
-    "active": true
+    "active": false
 }

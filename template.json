@@ -1,9 +1,13 @@
 {
     "id": 1,
-    "name": "name",
-    "link": "link",
-    "title": "tite",
-    "presentedBy": "presentedBy",
-    "datePresented": "31/12/2025",
-    "current-weekly": true
+    "name": "Buffer Overflow 1",
+    "author": "Sanjay C / Palash Oswal",
+    "link": "https://play.picoctf.org/practice/challenge/258",
+    "presentedBy": "Conrado Boeira",
+    "datePresented": "2025-09-22",
+    "tags": ["Binary Exploitation"],
+    "snippet": "Control the return address.",
+    "flag": "picoCTF{addr3ss3s_ar3_3asy_[REDACTED]}",
+    "flagFormat": "picoCTF{}",
+    "active": false
 }
