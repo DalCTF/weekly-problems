@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "name": "Emoji",
+    "author": "",
+    "link": "https://github.com/DalCTF/weekly-problems/Crypto/Emoji",
+    "presentedBy": "Lauren",
+    "datePresented": "2025-11-03",
+    "tags": ["Crypto"],
+    "snippet": "Emojis",
+    "flag": "Emojis",
+    "flagFormat": "Emojis",
+    "active": true
+}
