@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "name": "Gambler's Fallacy",
+    "author": "yoshixi",
+    "link": "https://github.com/UofTCTF/uoftctf-2026-chals-public/tree/main/gamblers-fallacy",
+    "presentedBy": "Adam",
+    "datePresented": "2026-01-12",
+    "tags": ["Crypto"],
+    "snippet": "Can we win a zillion dollars tonight? Algorithms inspired by primedice",
+    "flag": "uoftctf{ez_m3rs3nne_untwisting!!}",
+    "flagFormat": "uoftctf{}",
+    "active": true
+}
